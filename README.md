@@ -5,16 +5,21 @@ Mover Todos os arquivos de subpastas para a pasta principal.
 
 Exemplo:
 
+
+
+
+
+
 Parent Folder
      Subfolder
-           File1
-           File2
+          File1
+          File2
      Subfolder
-           File1
-           File2
+          File1
+          File2
      Subfolder
-           File1
-           File2
+          File1
+          File2
            
 ----------------------------------------------------------------------------------------
 
